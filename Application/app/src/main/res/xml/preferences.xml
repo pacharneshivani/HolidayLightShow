@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="Core">
+        <net.jayschwa.android.preference.SliderPreference
+            android:title="Frequency"
+            android:key="frequency_"
+            android:summary="@array/freqArray"
+            android:defaultValue="0" />
+        <ListPreference
+            android:title="Music"
+            android:key="music"
+            android:defaultValue="1"
+            android:entries="@array/musicArray"
+            android:entryValues="@array/musicValues"
+            android:summary="%s" />
+        <ListPreference
+            android:title="Shape"
+            android:key="shapes"
+            android:defaultValue="1"
+            android:entries="@array/shapesArray"
+            android:entryValues="@array/shapesValues"
+            android:summary="%s" />
+        <com.flask.colorpicker.ColorPickerPreference
+            android:title="Color"
+            android:key="colors"
+            app:alphaSlider="true"
+            app:density="12"
+            app:initialColor="0xffff0000"
+            app:lightnessSlider="true" />
+        <ListPreference
+            android:title="Pattern"
+            android:key="pattern"
+            android:defaultValue="1"
+            android:entries="@array/patternArray"
+            android:entryValues="@array/patternValues"
+            android:summary="%s" />
+    </PreferenceCategory>
+    <Preference android:layout="@layout/activity_settings" android:key="play"></Preference>
+</PreferenceScreen>

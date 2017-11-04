@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="shapesArray">
+        <item>Christmas Tree</item>
+        <item>Fireworks</item>
+        <item>Pumkpin</item>
+        <item>Present</item>
+    </string-array>
+
+    <string-array name="shapesValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="musicArray">
+        <item>ALL</item>
+        <item>SHUFFLE</item>
+        <item>Jingle Bells</item>
+        <item>It\'s Beginnning to look a lot like Christmas</item>
+        <item>God Bless America</item>
+        <item>America the Beautiful</item>
+        <item>Deck the Halls</item>
+        <item>All I Want for Christmas is You</item>
+    </string-array>
+
+    <string-array name="musicValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+    <string-array name="freqArray">
+        <item>88.1</item>
+        <item>88.3</item>
+        <item>88.5</item>
+        <item>88.7</item>
+        <item>88.9</item>
+        <item>89.1</item>
+        <item>89.3</item>
+        <item>89.5</item>
+        <item>89.7</item>
+        <item>89.9</item>
+        <item>90.1</item>
+        <item>90.3</item>
+        <item>90.5</item>
+        <item>90.7</item>
+        <item>90.9</item>
+        <item>91.1</item>
+        <item>91.3</item>
+        <item>91.5</item>
+        <item>91.7</item>
+        <item>91.9</item>
+        <item>92.1</item>
+        <item>92.3</item>
+        <item>92.5</item>
+        <item>92.7</item>
+        <item>92.9</item>
+        <item>93.1</item>
+        <item>93.3</item>
+        <item>93.5</item>
+        <item>93.7</item>
+        <item>93.9</item>
+        <item>94.1</item>
+        <item>94.3</item>
+        <item>94.5</item>
+        <item>94.7</item>
+        <item>94.9</item>
+        <item>95.1</item>
+        <item>95.3</item>
+        <item>95.5</item>
+        <item>95.7</item>
+        <item>95.9</item>
+        <item>96.1</item>
+        <item>96.3</item>
+        <item>96.5</item>
+        <item>96.7</item>
+        <item>96.9</item>
+        <item>97.1</item>
+        <item>97.3</item>
+        <item>97.5</item>
+        <item>97.7</item>
+        <item>97.9</item>
+        <item>98.1</item>
+        <item>98.3</item>
+        <item>98.5</item>
+        <item>98.7</item>
+        <item>98.9</item>
+        <item>99.1</item>
+        <item>99.3</item>
+        <item>99.5</item>
+        <item>99.7</item>
+        <item>99.9</item>
+        <item>100.1</item>
+        <item>100.3</item>
+        <item>100.5</item>
+        <item>100.7</item>
+        <item>100.9</item>
+        <item>101.1</item>
+        <item>101.3</item>
+        <item>101.5</item>
+        <item>101.7</item>
+        <item>101.9</item>
+        <item>102.1</item>
+        <item>102.3</item>
+        <item>102.5</item>
+        <item>102.7</item>
+        <item>102.9</item>
+        <item>103.1</item>
+        <item>103.3</item>
+        <item>103.5</item>
+        <item>103.7</item>
+        <item>103.9</item>
+        <item>104.1</item>
+        <item>104.3</item>
+        <item>104.5</item>
+        <item>104.7</item>
+        <item>104.9</item>
+        <item>105.1</item>
+        <item>105.3</item>
+        <item>105.5</item>
+        <item>105.7</item>
+        <item>105.9</item>
+        <item>106.1</item>
+        <item>106.3</item>
+        <item>106.5</item>
+        <item>106.7</item>
+        <item>106.9</item>
+        <item>107.1</item>
+        <item>107.3</item>
+        <item>107.5</item>
+        <item>107.7</item>
+        <item>107.9</item>
+    </string-array>
+
+    <string-array name="patternArray">
+        <item>Chase</item>
+        <item>Match the Music</item>
+        <item>Single Color</item>
+    </string-array>
+
+    <string-array name="patternValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
