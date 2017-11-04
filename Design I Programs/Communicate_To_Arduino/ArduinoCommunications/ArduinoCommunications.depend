@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503365654 source:c:\users\billy\desktop\communicate_to_arduino\serialport.cpp
+	"SerialPort.h"
+
+1503365670 c:\users\billy\desktop\communicate_to_arduino\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+

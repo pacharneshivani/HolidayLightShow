@@ -1,0 +1,24 @@
+import socket
+import time
+import random
+
+def send_command(socket, command, ip_port):
+    socket.sendto(command.encode(), ip_port)
+    
+
+def main():
+    UDP_IP = "192.168.0.5"
+    UDP_PORT = 5005
+    print("UDP target IP: ", UDP_IP)
+    print("UDP target port: ", UDP_PORT)
+    client_commands = ["R", "B", "G", "A", "N", "RB", "RG", "BG"]
+    ip_port = (UDP_IP, UDP_PORT)
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) #Internet, UDP
+    while True:
+        command_selection = random.randint(0, 7)
+        command = client_commands[command_selection]
+        send_command(sock, command, ip_port) 
+        time.sleep(0.12)       
+
+
+main() 
