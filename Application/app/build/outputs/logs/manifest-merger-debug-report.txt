@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/colorpicker-0.0.13.aar/6cda5457e5dbf115c56247c319e0d1ff/AndroidManifest.xml:2:1-14:12
+MERGED from [com.pavelsikun:material-seekbar-preference:2.3.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/material-seekbar-preference-2.3.0.aar/3e6a3f2a7e02e2bcd6e8061890a75627/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/preference-v7-23.4.0.aar/f9f606e7d772024182dc1fd57b1a121e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d793627f814848c9af79eb762fd357a0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/6583407031b680afc374cd720f0b49bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/colorpicker-0.0.13.aar/6cda5457e5dbf115c56247c319e0d1ff/AndroidManifest.xml:12:5-20
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/colorpicker-0.0.13.aar/6cda5457e5dbf115c56247c319e0d1ff/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/preference-v7-23.4.0.aar/f9f606e7d772024182dc1fd57b1a121e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/preference-v7-23.4.0.aar/f9f606e7d772024182dc1fd57b1a121e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d793627f814848c9af79eb762fd357a0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d793627f814848c9af79eb762fd357a0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.holidaylightshow.holidaylightshow.SettingsActivity
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:12:3-57
+	android:name
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:12:13-44
+activity#com.holidaylightshow.holidaylightshow.MainActivity
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/colorpicker-0.0.13.aar/6cda5457e5dbf115c56247c319e0d1ff/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/colorpicker-0.0.13.aar/6cda5457e5dbf115c56247c319e0d1ff/AndroidManifest.xml:8:5-10:41
+MERGED from [com.pavelsikun:material-seekbar-preference:2.3.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/material-seekbar-preference-2.3.0.aar/3e6a3f2a7e02e2bcd6e8061890a75627/AndroidManifest.xml:8:5-10:41
+MERGED from [com.pavelsikun:material-seekbar-preference:2.3.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/material-seekbar-preference-2.3.0.aar/3e6a3f2a7e02e2bcd6e8061890a75627/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/preference-v7-23.4.0.aar/f9f606e7d772024182dc1fd57b1a121e/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/preference-v7-23.4.0.aar/f9f606e7d772024182dc1fd57b1a121e/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d793627f814848c9af79eb762fd357a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d793627f814848c9af79eb762fd357a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/6583407031b680afc374cd720f0b49bd/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/6583407031b680afc374cd720f0b49bd/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shivani/Desktop/Senior Design/Application/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cc23b019cf24cd9e71aa7bc35f20f1dc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4a477e7173b98f2c9ff10e3c524a26b3/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0b828ee76be575c9d74676be46a77fcb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a0fa4978225b693c141d338ccd116bbc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b7d7c453cd5b284ff9b039fcd773a4ab/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b24e624085e9da5c002ac571d77224e8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a3251c02e165d9a1893116e94c1ff574/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/278019573ede43eb1d55d5e29335feea/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Shivani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/432446cf20771d440a12decbf36121b7/AndroidManifest.xml:26:9-47

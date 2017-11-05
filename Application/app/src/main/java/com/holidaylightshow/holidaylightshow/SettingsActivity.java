@@ -27,9 +27,10 @@ public class SettingsActivity extends AppCompatActivity {
     }
 
     public void playLightShow(View v) {
-        float f = sharedPreferences.getFloat("frequency_", 0.0f);
+        byte frequency = 0;
+        /*float f = sharedPreferences.getFloat("frequency_", 0.0f);
         int frequencyScaled = (int) ((f / 1.0f) * 100.0f);
-        byte frequency = (byte) frequencyScaled;
+        byte frequency = (byte) frequencyScaled;*/
         int musicInt = Integer.valueOf(sharedPreferences.getString("music", ""));
         byte music = (byte) musicInt;
         int shapeInt = Integer.valueOf(sharedPreferences.getString("shapes", ""));

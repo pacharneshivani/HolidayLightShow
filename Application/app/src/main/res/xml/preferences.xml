@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sample="http://schemas.android.com/apk/res-auto"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <PreferenceCategory android:title="Core">
-        <net.jayschwa.android.preference.SliderPreference
+        <com.pavelsikun.seekbarpreference.SeekBarPreference
             android:title="Frequency"
-            android:key="frequency_"
-            android:summary="@array/freqArray"
-            android:defaultValue="0" />
+            android:enabled="true"
+            sample:msbp_minValue="881"
+            sample:msbp_maxValue="1079"
+            sample:msbp_interval="10"
+            sample:msbp_measurementUnit="mHz"
+            sample:msbp_dialogEnabled="false"/>
         <ListPreference
             android:title="Music"
             android:key="music"
