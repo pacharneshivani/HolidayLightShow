@@ -21,7 +21,8 @@ public class MainActivity extends AppCompatActivity {
         PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
         TextView description = (TextView) findViewById(R.id.text_description);
-        description.setText("Immerse your holidays with a brilliant light show! Easily customizable light show that will dazzle your senses.\n");
+        description.setText("Immerse your holiday with a brilliant light show! Easily customizable light show that will dazzle your senses.\n");
+
         Button connect = (Button) findViewById(R.id.button_connect);
         connect.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View v) {
@@ -30,7 +31,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button userManual = (Button) findViewById(R.id.button_manual);
+        userManual.setOnClickListener(new View.OnClickListener() {
+            @Override public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, UserManualActivity.class);
+                startActivity(intent);
+            }
+        });
     }
-
 
 }
