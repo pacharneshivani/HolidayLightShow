@@ -2,39 +2,143 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:sample="http://schemas.android.com/apk/res-auto"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <PreferenceCategory android:title="Core">
-        <com.pavelsikun.seekbarpreference.SeekBarPreference
-            android:title="Frequency"
-            android:enabled="true"
-            sample:msbp_minValue="881"
-            sample:msbp_maxValue="1079"
-            sample:msbp_interval="10"
-            sample:msbp_measurementUnit="mHz"
-            sample:msbp_dialogEnabled="false"/>
+    <PreferenceCategory android:title="Frequency">
+        <org.anasthase.androidseekbarpreference.SeekBarPreference
+            android:defaultValue="15"
+            android:key="frequency"
+            app:format="%.1f Hz"
+            app:maxValue="1081"
+            app:minValue="881"
+            app:stepValue="1"
+            app:displayDividerValue="10"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Music">
         <ListPreference
-            android:title="Music"
             android:key="music"
+            android:title="Music"
             android:defaultValue="1"
             android:entries="@array/musicArray"
             android:entryValues="@array/musicValues"
             android:summary="%s" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Shape 1">
+        <SwitchPreference
+            android:key="status1"
+            android:title="Active"
+            android:defaultValue="true" />
         <ListPreference
             android:title="Shape"
-            android:key="shapes"
+            android:dependency="status1"
+            android:key="shape1"
             android:defaultValue="1"
             android:entries="@array/shapesArray"
             android:entryValues="@array/shapesValues"
             android:summary="%s" />
         <com.flask.colorpicker.ColorPickerPreference
             android:title="Color"
-            android:key="colors"
+            android:dependency="status1"
+            android:key="color1"
             app:alphaSlider="true"
             app:density="12"
             app:initialColor="0xffff0000"
             app:lightnessSlider="true" />
         <ListPreference
             android:title="Pattern"
-            android:key="pattern"
+            android:dependency="status1"
+            android:key="pattern1"
+            android:defaultValue="1"
+            android:entries="@array/patternArray"
+            android:entryValues="@array/patternValues"
+            android:summary="%s" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Shape 2">
+        <SwitchPreference
+            android:dependency="status1"
+            android:key="status2"
+            android:title="Active"
+            android:defaultValue="false" />
+        <ListPreference
+            android:title="Shape"
+            android:dependency="status2"
+            android:key="shape2"
+            android:defaultValue="1"
+            android:entries="@array/shapesArray"
+            android:entryValues="@array/shapesValues"
+            android:summary="%s" />
+        <com.flask.colorpicker.ColorPickerPreference
+            android:title="Color"
+            android:dependency="status2"
+            android:key="color2"
+            app:alphaSlider="true"
+            app:density="12"
+            app:initialColor="0xffff0000"
+            app:lightnessSlider="true" />
+        <ListPreference
+            android:title="Pattern"
+            android:dependency="status2"
+            android:key="pattern2"
+            android:defaultValue="1"
+            android:entries="@array/patternArray"
+            android:entryValues="@array/patternValues"
+            android:summary="%s" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Shape 3">
+        <SwitchPreference
+            android:dependency="status2"
+            android:key="status3"
+            android:title="Active"
+            android:defaultValue="false" />
+        <ListPreference
+            android:title="Shape"
+            android:dependency="status3"
+            android:key="shape3"
+            android:defaultValue="1"
+            android:entries="@array/shapesArray"
+            android:entryValues="@array/shapesValues"
+            android:summary="%s" />
+        <com.flask.colorpicker.ColorPickerPreference
+            android:title="Color"
+            android:dependency="status3"
+            android:key="color3"
+            app:alphaSlider="true"
+            app:density="12"
+            app:initialColor="0xffff0000"
+            app:lightnessSlider="true" />
+        <ListPreference
+            android:title="Pattern"
+            android:dependency="status3"
+            android:key="pattern3"
+            android:defaultValue="1"
+            android:entries="@array/patternArray"
+            android:entryValues="@array/patternValues"
+            android:summary="%s" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Shape 4">
+        <SwitchPreference
+            android:dependency="status3"
+            android:key="status4"
+            android:title="Active"
+            android:defaultValue="false" />
+        <ListPreference
+            android:title="Shape"
+            android:dependency="status4"
+            android:key="shape4"
+            android:defaultValue="1"
+            android:entries="@array/shapesArray"
+            android:entryValues="@array/shapesValues"
+            android:summary="%s" />
+        <com.flask.colorpicker.ColorPickerPreference
+            android:title="Color"
+            android:dependency="status4"
+            android:key="color4"
+            app:alphaSlider="true"
+            app:density="12"
+            app:initialColor="0xffff0000"
+            app:lightnessSlider="true" />
+        <ListPreference
+            android:title="Pattern"
+            android:dependency="status4"
+            android:key="pattern4"
             android:defaultValue="1"
             android:entries="@array/patternArray"
             android:entryValues="@array/patternValues"
