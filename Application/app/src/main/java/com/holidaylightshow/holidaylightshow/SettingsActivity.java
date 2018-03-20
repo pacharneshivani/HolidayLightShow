@@ -93,11 +93,11 @@ public class SettingsActivity extends AppCompatActivity {
         updateState("Stopping Light Show");
     }
 
-    public void updateState(String state){
+    public void updateState(String state) {
         Toast.makeText(getApplicationContext(), state, Toast.LENGTH_SHORT).show();
     }
 
-    public void clientEnd(){
+    public void clientEnd() {
         udpClientThread = null;
 
         Button play = (Button) findViewById(R.id.button_play);
