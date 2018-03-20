@@ -6,7 +6,7 @@
         <org.anasthase.androidseekbarpreference.SeekBarPreference
             android:defaultValue="15"
             android:key="frequency"
-            app:format="%.1f Hz"
+            app:format="%.1f MHz"
             app:maxValue="1081"
             app:minValue="881"
             app:stepValue="1"
