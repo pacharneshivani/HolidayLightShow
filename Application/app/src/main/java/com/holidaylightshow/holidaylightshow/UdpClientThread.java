@@ -1,35 +1,40 @@
 package com.holidaylightshow.holidaylightshow;
 
-import android.os.Message;
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
-import java.io.*;
-import java.net.*;
 
 public class UdpClientThread extends Thread {
 
     private static final String DST_ADDRESS = "192.168.0.1";
-	private static final int DST_PORT = 5005;
+    private static final int DST_PORT = 5005;
+    private SettingsActivity.UdpClientHandler udpClientHandler;
     private String data;
-    
-    public UdpClientThread(String data) {
+    private DatagramSocket socket;
+    private InetAddress address;
+
+    public UdpClientThread(SettingsActivity.UdpClientHandler udpClientHandler, String data) {
         super();
-		this.data = data;
+        this.udpClientHandler = udpClientHandler;
+        this.data = data;
     }
 
     @Override public void run() {
+        udpClientHandler.sendState("Connecting...");
+
         try {
-            DatagramSocket socket = new DatagramSocket(DST_PORT);
-            InetAddress address = InetAddress.getByName(DST_ADDRESS);
+            socket = new DatagramSocket(DST_PORT);
+            address = InetAddress.getByName(DST_ADDRESS);
 
             byte[] sendData = new byte[64];
             sendData = data.getBytes();
-            DatagramPacket packet = new DatagramPacket(sendData, sendData.length, DST_ADDRESS, DST_PORT);
+            DatagramPacket packet = new DatagramPacket(sendData, sendData.length, address, DST_PORT);
             socket.send(packet);
+
+            udpClientHandler.sendState("Connected");
         } catch (SocketException e) {
             e.printStackTrace();
         } catch (UnknownHostException e) {
@@ -37,10 +42,9 @@ public class UdpClientThread extends Thread {
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
-            if (socket != null) {
-                socket.close();
-            }
+            socket.close();
+            udpClientHandler.sendEndSignal();
         }
     }
-	
+
 }
