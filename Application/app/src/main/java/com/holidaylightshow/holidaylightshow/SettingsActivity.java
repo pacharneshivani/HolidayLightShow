@@ -48,7 +48,7 @@ public class SettingsActivity extends AppCompatActivity {
     }
 
     public void playLightShow(View v) {
-        String frequency = String.valueOf((double) sharedPreferences.getInt("frequency", 0)/10.0);
+        String frequency = String.valueOf(sharedPreferences.getInt("frequency", 0));
         String music = sharedPreferences.getString("music", "");
 
         boolean status1 = sharedPreferences.getBoolean("status1", false);
