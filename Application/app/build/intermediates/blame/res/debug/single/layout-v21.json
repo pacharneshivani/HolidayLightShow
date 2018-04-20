@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

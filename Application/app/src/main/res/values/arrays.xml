@@ -2,13 +2,15 @@
 <resources>
 
     <string-array name="shapesArray">
+        <item>Please select a shape</item>
         <item>Christmas Tree</item>
-        <item>Fireworks</item>
-        <item>Pumkpin</item>
-        <item>Present</item>
+        <item>Strand 1</item>
+        <item>Stand 2</item>
+        <item>3D Christmas Tree</item>
     </string-array>
 
     <string-array name="shapesValues">
+        <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -17,16 +19,44 @@
 
     <string-array name="musicArray">
         <item>ALL</item>
-        <item>SHUFFLE</item>
-        <item>Jingle Bells</item>
-        <item>It\'s Beginnning to look a lot like Christmas</item>
-        <item>God Bless America</item>
-        <item>America the Beautiful</item>
         <item>Deck the Halls</item>
-        <item>All I Want for Christmas is You</item>
+        <item>Jingle Bells</item>
+        <item>Hell\'s Bells</item>
+        <item>Back in Black</item>
+        <item>Love in this Club</item>
+        <item>Christmas Canon Rock</item>
+        <item>Carol of the Bells</item>
+        <item>Eye of the Tiger</item>
+        <item>Sail</item>
+        <item>Yeah</item>
+        <item>Bass Head</item>
+        <item>Carol of the Bells -  August Burns Red</item>
+        <item>Crawl</item>
+        <item>Gas Pedal</item>
+        <item>Jingle Bell Rock</item>
+        <item>Shoot to Thrill</item>
+        <item>Smack That</item>
+        <item>Who Let the Dogs Out</item>
+        <item>Turn Down for What</item>
+        <item>Thnks Fr The Mmrs</item>
+        <item>All I do is Win</item>
+        <item>Hit the Quan</item>
+        <item>Animals</item>
+        <item>Lollipop</item>
+        <item>Turn Down for What</item>
+        <item>Set it Off</item>
+        <item>Love Game</item>
+        <item>Whatever You Like</item>
+        <item>Joy to the World</item>
+        <item>God Rest Ye Merry Gentelemen</item>
+        <item>Thinking</item>
+        <item>Wipe Me Down</item>
+        <item>I Wanna Go</item>
+        <item>Wizards in Winter</item>
     </string-array>
 
     <string-array name="musicValues">
+        <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -35,18 +65,83 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
     </string-array>
-    
+
     <string-array name="patternArray">
-        <item>Chase</item>
         <item>Match the Music</item>
-        <item>Single Color</item>
+        <item>Chase</item>
+        <item>ALL ON</item>
     </string-array>
 
     <string-array name="patternValues">
+        <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
+    </string-array>
+
+    <string-array name="colorArray">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Maroon</item>
+        <item>Purple</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="colorValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
     </string-array>
 
 </resources>

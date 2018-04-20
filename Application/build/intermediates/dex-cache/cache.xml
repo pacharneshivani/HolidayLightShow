@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/0878fb6fa91eae39a8569f426f25e08426764ea4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_529890d1afd79400af2335db787ec35d64e733b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/491878921f217762fb7722d1fe83c13b6d39c456/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_883dd7dd79f3b76c6b6a0a4460a2a36af08ee64a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/7e5788c5c2abc39bdfff08055f87cc40c125fc33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_040196f0b2b6ca67e9db87ab91ae8ea3d5e32d6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/7e5788c5c2abc39bdfff08055f87cc40c125fc33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_040196f0b2b6ca67e9db87ab91ae8ea3d5e32d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_3a72ffb2aeaa22bf7e3091a80893a34beeb2463b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/0878fb6fa91eae39a8569f426f25e08426764ea4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_529890d1afd79400af2335db787ec35d64e733b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/07c2cab40403655c51d63ba0b39adcb5f4fc73c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5b433718cdb69bfc15688aa1a2169dd37a6f14d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/fe7fd6ecb0063aabf67e3ef719ba3eb13e2697bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd79c5c1c3667c9666da7ad5e0baf93e80bad968/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/491878921f217762fb7722d1fe83c13b6d39c456/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_883dd7dd79f3b76c6b6a0a4460a2a36af08ee64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/07c2cab40403655c51d63ba0b39adcb5f4fc73c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_c5b433718cdb69bfc15688aa1a2169dd37a6f14d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/586152523c2c5383329c673a0531f26c9c5d50f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e82f4dd0ec0adfbd0592a964c560662e856f3d8">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_5338834cac5bd1acf51d3f0a897b1fcc7d5bec93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ad751696926a500a140ef115167eb089469dbcf1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/586152523c2c5383329c673a0531f26c9c5d50f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e82f4dd0ec0adfbd0592a964c560662e856f3d8">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5338834cac5bd1acf51d3f0a897b1fcc7d5bec93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ad751696926a500a140ef115167eb089469dbcf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/c898bbabe26d67e61490c441b552798192e2d2e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_323926107b37d3b25ba4eaac88e5b993d938b5fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/c898bbabe26d67e61490c441b552798192e2d2e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_323926107b37d3b25ba4eaac88e5b993d938b5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433be270b4fac06af6e20e83c68f328cf986d9ab">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_608c89a7a91ed652f99611fe812a867768fdff09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/fe360b1fc1c3591cb11e8b3bd32139dcafae3e03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55ca69e561a3274074e2f445801e39b96eb9482b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/fe360b1fc1c3591cb11e8b3bd32139dcafae3e03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_55ca69e561a3274074e2f445801e39b96eb9482b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_0a06098fbba2db31071789263232a66df3422084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/fe7fd6ecb0063aabf67e3ef719ba3eb13e2697bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_bd79c5c1c3667c9666da7ad5e0baf93e80bad968.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59c5c9171076580e2946e15739aa5f22c3f06073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/bd87cb99fff50327c596ab3751bd24fee47e8278/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="115b8f6cf794c44da15d3fbbe0a7c4de7f268bff">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfa4c0138b71c87fd318983b41d47acca6b91247/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/836633afb7422da7b36b2823624881fcacd37018/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_4f034f959eb6e0bd0da15bb4116dac1a667f03c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/bd87cb99fff50327c596ab3751bd24fee47e8278/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="115b8f6cf794c44da15d3fbbe0a7c4de7f268bff">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_bfa4c0138b71c87fd318983b41d47acca6b91247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephaulds/.android/build-cache/61511f6ead98fc40dee27a6990c0216d8ccd504f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/pre-dexed/debug/classes_ad82fcc91e2702960d8df12e5284266caaed023f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/61511f6ead98fc40dee27a6990c0216d8ccd504f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad82fcc91e2702960d8df12e5284266caaed023f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a72ffb2aeaa22bf7e3091a80893a34beeb2463b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/.android/build-cache/836633afb7422da7b36b2823624881fcacd37018/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f034f959eb6e0bd0da15bb4116dac1a667f03c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephaulds/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_0a06098fbba2db31071789263232a66df3422084/classes.dex" />
+    </item>
+
+</items>

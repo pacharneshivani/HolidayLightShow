@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/josephaulds/.android/build-cache/c1036b6ca10e23c8b7d7216dc309d89f893b312b/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

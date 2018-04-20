@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/Shivani/Desktop/Senior Design/Application/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/Shivani/Desktop/Senior Design/Application/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/josephaulds/Desktop/HolidayLightShow/Application/app/src/debug/jniLibs"/></dataSet></merger>

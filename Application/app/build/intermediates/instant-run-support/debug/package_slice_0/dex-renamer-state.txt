@@ -1,4 +1,4 @@
-#Sat Nov 04 11:59:38 CDT 2017
-base.0=/Users/Shivani/Desktop/Senior Design/Application/app/build/intermediates/transforms/dexMerger/debug/1
+#Sun Apr 08 18:01:07 CDT 2018
+base.0=/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
 renamed.0=classes.dex
-file.0=/Users/Shivani/Desktop/Senior Design/Application/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex
+file.0=/Users/josephaulds/Desktop/HolidayLightShow/Application/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

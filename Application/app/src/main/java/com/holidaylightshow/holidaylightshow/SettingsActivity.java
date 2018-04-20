@@ -12,6 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class SettingsActivity extends AppCompatActivity {
@@ -20,6 +21,7 @@ public class SettingsActivity extends AppCompatActivity {
     private SharedPreferences sharedPreferences;
     private UdpClientHandler udpClientHandler;
     private UdpClientThread udpClientThread;
+    TextView textViewRx;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +30,7 @@ public class SettingsActivity extends AppCompatActivity {
         actionBar.setTitle("Settings");
         actionBar.setDisplayHomeAsUpEnabled(true);
         getFragmentManager().beginTransaction().replace(android.R.id.content, new SettingsFragment()).commit();
+        textViewRx = (TextView)findViewById(R.id.received);
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 
         udpClientHandler = new UdpClientHandler(this);
@@ -38,23 +41,32 @@ public class SettingsActivity extends AppCompatActivity {
 
         if (status) {
             if (key.contains("color")) {
-                result = Integer.toHexString(sharedPreferences.getInt(key, 0));
+                result = sharedPreferences.getString(key, "");//result = Integer.toHexString(sharedPreferences.getInt(key, 0));
             } else {
                 result = sharedPreferences.getString(key, "");
             }
         }
+
 
         return result;
     }
 
     public void playLightShow(View v) {
         String frequency = String.valueOf(sharedPreferences.getInt("frequency", 0));
-        String music = sharedPreferences.getString("music", "");
-
+        float int_frequency = Integer.parseInt(frequency);
+        /*if ((int_frequency % 2) == 0){
+            int_frequency -= 1;
+        }
+        frequency = String.valueOf(int_frequency);*/
+        String music1 = sharedPreferences.getString("music", "");
+        float float_music = Float.parseFloat(music1) + 10;
+        int int_music = (int) float_music;
+        String music = String.valueOf(int_music);
         boolean status1 = sharedPreferences.getBoolean("status1", false);
         boolean status2 = sharedPreferences.getBoolean("status2", false);
         boolean status3 = sharedPreferences.getBoolean("status3", false);
         boolean status4 = sharedPreferences.getBoolean("status4", false);
+
 
         String shape1 = getSharedPrefStatusString(status1, "shape1");
         String color1 = getSharedPrefStatusString(status1, "color1");
@@ -78,12 +90,21 @@ public class SettingsActivity extends AppCompatActivity {
                 + shape3 + color3 + pattern3
                 + shape4 + color4 + pattern4;
 
+        String send_test = "Frequency is " + frequency + " Song is " + music + "\nStrand 0 is: "  + '0' +
+                " Color 1 is " + color1  + " Pattern 1 is " + pattern1  + "\nStrand 1 is: " + '1' +
+                " Color 2 is " + color2 + " Pattern 2 is " + pattern2 + "\nStrand 2 is: " + '2' +
+                " Color 3 is " + color3 + " Pattern 3 is " + pattern3 + "\nStrand 3 is: " + '3'+
+                " Color 4 is " + color4 + " Pattern 4 is " + pattern4 + "\nStrand 4 is: " + '4';
+
         udpClientThread = new UdpClientThread(udpClientHandler, data);
         udpClientThread.start();
 
         Button play = (Button) findViewById(R.id.button_play);
+        //textViewRx.setText(send_test);
         play.setEnabled(false);
         updateState("Configuring Light Show");
+        updateState(data);
+
     }
 
     public void stopLightShow(View v) {
